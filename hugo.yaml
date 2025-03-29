@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://boehmt.de"
 title: "@boehmt"
 
 pagination:
@@ -15,7 +15,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: development # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production
   title: "@boehmt"
   description: "Welcome to my blog where I write about my experiences in academia, interesting papers and happenings in my field."
 
@@ -48,7 +48,7 @@ params:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: "/assets/favicon/favicon.ico"
-    favicon16x16: "/favicon/favicon-16x16.png"
+    faabout:blank#blockedvicon16x16: "/favicon/favicon-16x16.png"
     favicon32x32: "/favicon/favicon-32x32.png"
     apple_touch_icon: "/favicon/apple-touch-icon.png"
     safari_pinned_tab: "/favicon/apple-touch-icon.png"
