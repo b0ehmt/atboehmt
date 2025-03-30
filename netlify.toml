@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/*"
-  to = "https://boehmt.de/:splat"
-  status = 301
-  force = true
